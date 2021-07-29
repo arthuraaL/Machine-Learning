@@ -28,7 +28,7 @@ def validation(model, testloader, criterion):
     test_loss = 0
     for images, labels in testloader:
         log_ps = model(images)
-        test_loss += criterion(output, labels).item()
+        test_loss += criterion(log_ps, labels).item()
 
         ## Calculating the accuracy 
         # Output is log-softmax, take exponential to get the probabilities
