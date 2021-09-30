@@ -11,4 +11,10 @@ A much better way to evaluate the performance of a classifier is to look at the 
 
 #### Precision and Recall
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BTP%7D%7BTP%20%2B%20FP%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BTP%7D%7BTP%20%2B%20FP%7D%20&bc=Black&fc=White&im=jpg&fs=12&ff=arev&edit=0)
+
+   TP     
+--------- 
+TP  +  FP 
+
+
