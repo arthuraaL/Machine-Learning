@@ -11,4 +11,4 @@ A much better way to evaluate the performance of a classifier is to look at the 
 
 #### Precision and Recall
 
-$$precision = {TP} \\over {TP + FP}$$
+$$precision = {TP \\over TP + FP}$$
