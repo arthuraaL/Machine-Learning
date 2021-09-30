@@ -11,4 +11,6 @@ A much better way to evaluate the performance of a classifier is to look at the 
 
 #### Precision and Recall
 
-precision = \alpha
+```math
+a^2+b^2=c^2
+```
